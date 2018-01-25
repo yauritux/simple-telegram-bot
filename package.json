@@ -1,0 +1,11 @@
+{
+  "name": "simple-bot",
+  "version": "1.0.0",
+  "description": "Demo Simple Chatbot with telegram-node-bot ",
+  "main": "index.js",
+  "author": "Yauri Attamimi",
+  "license": "MIT",
+  "dependencies": {
+    "telegram-node-bot": "^4.0.5"
+  }
+}
