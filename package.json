@@ -6,6 +6,7 @@
   "author": "Yauri Attamimi",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^4.17.4",
     "telegram-node-bot": "^4.0.5"
   }
 }

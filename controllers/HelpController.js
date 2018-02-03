@@ -9,6 +9,7 @@ class HelpController extends Telegram.TelegramBaseController {
             /help display this manual
             /start start new chat session
             /ping test bot connection
+            /register register new user
             /stop stop (end) the chat session`);
     }
 
